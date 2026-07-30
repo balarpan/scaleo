@@ -4,6 +4,9 @@ __pycache__
 *.so
 .DS_Store
 .pytest_cache/
+.ipynb_checkpoints/
+
+uv.lock
 
 # Packages
 *.egg
