@@ -1,0 +1,42 @@
+__pycache__
+*.py[co]
+*.pyd
+*.so
+.DS_Store
+.pytest_cache/
+.ipynb_checkpoints/
+
+uv.lock
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+_build
+.installed.cfg
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+
+# Sphinx documentation
+doc/_build/
+doc/build/
+.jupyterlite.doit.db
+/doc/jupyter_execute/
+
+# Editors
+.idea
+.project
+.pydevproject
+.settings
+
+# Virtual environments
+.env/
+env/
+venv/
+.venv/
